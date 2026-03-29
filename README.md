@@ -1,1 +1,1 @@
-# loan-approval-ml
+# ai project
